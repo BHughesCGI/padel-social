@@ -1,0 +1,8 @@
+# Event exports belong on the organiser's device, outside the published site.
+*-backup.json
+*-standings.csv
+backups/
+.env
+.env.*
+.DS_Store
+Thumbs.db
